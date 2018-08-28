@@ -1,0 +1,16 @@
+Name : Fereshta Alavy
+Student ID : 013454883
+Major : computer Science
+preferred Email address : fereshta.alavy@sjsu.edu
+Undergraduate
+Repeating the class? [ ] Yes, [*] No
+Place and semester where you took a programming course in Java: Spring 2015 and Fall 2016
+
+Course number and grade received:36A at De Anza college, Grade A- and 36B Grade B
+
+Place and semester where you took a course in data structures: fall 2017
+
+Course number and grade received: 22c at De Anza college, grade A
+
+Course number and grade received:
+Did you ask anyone for help? [ ] Yes, [ *] No
