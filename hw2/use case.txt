@@ -1,0 +1,8 @@
+1.Customer arrive at the gas station and use the pump.
+2.Customer swipe his card or go inside for paying with cash.
+3.Customer choose the type of the gas.
+4.Customer start filling the car's trunk.
+5.Pump screen notify customer when the Car is full.
+6.Customer leave.
+
+ 
