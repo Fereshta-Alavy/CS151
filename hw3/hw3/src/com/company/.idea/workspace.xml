@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aae74d3b-b255-43e3-b4f4-489b458d0f25" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f560f90d-3ee2-4ddb-8a95-63d7f5d79e1f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +22,7 @@
     </projectState>
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1340337319">
+    <session id="1741088015">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
@@ -34,7 +33,7 @@
     </session>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -52,14 +51,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="hw3" />
+              <option name="name" value="company" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="hw3" />
+                <option name="name" value="company" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -78,27 +77,27 @@
                 <option name="name" value="init" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'hw3'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'company'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'hw3'." />
+                <option name="description" value="Displays the sub-projects of root project 'company'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'hw3'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'company'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'hw3'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'company'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'hw3'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'company'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -108,7 +107,7 @@
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'hw3'." />
+                <option name="description" value="Displays all dependencies declared in root project 'company'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -118,17 +117,17 @@
                 <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'hw3'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'company'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'hw3'." />
+                <option name="description" value="Displays the properties of root project 'company'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'hw3'." />
+                <option name="description" value="Displays the tasks runnable from root project 'company'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -139,7 +138,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1539884301000" />
+        <entry key="$PROJECT_DIR$" value="1539899869000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -158,7 +157,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="hw3" />
+              <option name="name" value="company" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
@@ -252,6 +251,7 @@
         <entry key="$USER_HOME$/Desktop/cayhorstmann-oodp3code-df603367c5b2 3/ch02/mail" value="PREVIEW" />
         <entry key="$USER_HOME$/Desktop/ud282-master 2/Project 1 - TicTacToe" value="PREVIEW" />
         <entry key="$USER_HOME$/Desktop/ud282-master/Project 1 - TicTacToe" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../.." value="PREVIEW" />
         <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
         <entry key="$USER_HOME$/Downloads/CS151-master/hw3" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/CS151-master/hw3/hw3Q2" value="PREVIEW" />
@@ -271,19 +271,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="hw3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hw3" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -303,11 +293,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="aae74d3b-b255-43e3-b4f4-489b458d0f25" name="Default Changelist" comment="" />
-      <created>1539884297693</created>
+      <changelist id="f560f90d-3ee2-4ddb-8a95-63d7f5d79e1f" name="Default Changelist" comment="" />
+      <created>1539899865852</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539884297693</updated>
+      <updated>1539899865852</updated>
     </task>
     <servers />
   </component>
